@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(42, 19, 42);
+  color: yellow;
+  text-align: center;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+   background-color: yellow;
+   font-size: 17px;
+   font-weight: bold;
+}
